@@ -1,3 +1,3 @@
 // Write your code in this file!
-currentUser = ""
-welcomeMessage = "Welcome to Flatbook!"
+const currentUser = ""
+const welcomeMessage = "Welcome to Flatbook!"
