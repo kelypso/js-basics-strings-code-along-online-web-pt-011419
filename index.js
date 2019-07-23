@@ -1,3 +1,3 @@
 // Write your code in this file!
 currentUser =
-welcomeMessage =
+welcomeMessage = "Welcome to Flatbook!"
